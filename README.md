@@ -11,3 +11,7 @@ You should create one R script called "project_script.R" that does the following
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+## Steps to work on this course project
+
+Download the data source as mention in the CodeBook.md and put into a folder on your local drive. You'll have a UCI HAR Dataset folder. , Then set it as your working directory using setwd() function in RStudio.
+Run " project_script.R "  it will generate a new file tiny_data.txt in your working directory.
